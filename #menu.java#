@@ -35,15 +35,10 @@ public void displayMenu(){
         }
         
         public getSelection(){
-        int selection=input.nextChar();
-        input.nextLine();
-
-        switch(selection){
-
-        break;
-
-
-return selection;
+	    canner input = new Scanner(System.in);
+	    
+	    char selection=input.next().charAt(0);
+	    return selection;
         }
 
         }
