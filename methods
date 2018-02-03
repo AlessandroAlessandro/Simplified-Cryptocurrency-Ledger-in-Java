@@ -1,0 +1,53 @@
+/*
+Alessandro Garcia-Alario
+CIS 4930
+1/24/18
+
+ Verifying Digital Currency Transactions (simplified Bitcoin)CIS4930-6930 Spring 2018
+ INSERT DESCRIPTION HERE
+
+ */
+
+import java.util.Scanner;
+
+public class Menu(
+{
+
+
+
+// menu method
+public void displayMenu(){
+        bool showMenu=true;
+        while(showMenu)
+        {
+        System.out.println("[F]ile"+
+        "[T]ransaction"+
+        "[P]rint"+
+        "[H]elp"+
+        "[D]ump"+
+        "[W]ipe"+
+        "[I]nteractive"+
+        "[V]erbose"+
+        "[B]alance"+
+        "[E]xit"+
+        "Select a command: ");
+        
+        }
+        
+        public getSelection(){
+        int selection=input.nextChar();
+        input.nextLine();
+
+        switch(selection){
+
+        break;
+
+
+return selection;
+        }
+
+        }
+        }
+
+
+        }// end class
