@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class Menu{
 
     
-    // testing
+    /* testing
 	public static void main(String[] args)
 	{
 	    
@@ -23,7 +23,7 @@ public class Menu{
 	    displayMenu();
 	    System.out.print(getSelection());
 	}
-    	
+    */	
 	// menu method
 	public static void displayMenu(){
 	    System.out.println("[F]ile\n"+
