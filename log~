@@ -1,0 +1,15 @@
+Programed in java using provided makefile.
+Commands "make run" makes the class files and runs the program.
+command "make clean" cleans the class files. 
+
+
+
+Was having loads of trouble with this assignment. Things finally started clicking once I got the objects I was going to run established, however I just ran into too many troubles towards the end.
+
+The functionalty I was able to enact were:
+
+- F read in transactions from the file and parse into transactions with object data.
+- P print out the currrent array of transactions objects.
+- W wipe the current ledger in order to start again.
+
+The assignment was a challenging but fun one, I wish I could have completed it in time. 
